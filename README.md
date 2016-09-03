@@ -1,5 +1,5 @@
 # laranewspaper
-Newspaper site built with Laravel
+Newspaper site built with Laravel.
 
 ----
 
